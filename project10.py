@@ -3,7 +3,7 @@ from telegram import Update, ParseMode
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ConversationHandler, CallbackContext
 
 # Replace 'YOUR_BOT_TOKEN' with the token you obtained from the BotFather
-TOKEN = '6231106587:AAFokFRF_BOwgJMHCUgcxSO_UOxEYRWtFEI'
+TOKEN = '6648183065:AAG0YneFoI746robQ6FfPd0Hj4H54pdHyZY'
 
 # Set up logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
